@@ -23,7 +23,7 @@ A web-based library management system built with PHP and MySQL that allows users
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/zarr14/BookRequestApp
 ```
 
 2. Import the database:
