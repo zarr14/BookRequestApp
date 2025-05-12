@@ -1,0 +1,42 @@
+# PHP specific
+*.log
+*.cache
+*.sql
+*.sqlite
+*.sqlite3
+
+# Upload directory (if it contains user-uploaded content)
+/uploads/*
+!/uploads/.gitkeep
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip 
